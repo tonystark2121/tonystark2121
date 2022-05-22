@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alokrawat2121@gmail.com**
 
-- 📄 Know about my experiences [https://tonystark2121.github.io/My-Portfolio/]("https://portfolio-f0c67.web.app/")
+- 📄 Know about my experiences [https://tonystark2121.github.io/My-Portfolio/](https://portfolio-f0c67.web.app/)
 
 - ⚡ Fun fact **I spend 2-3 hours watching Netflix 😊**
 
