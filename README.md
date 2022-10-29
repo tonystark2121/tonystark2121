@@ -33,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonystark2121&show_icons=true&locale=en" alt="tonystark2121" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonystark2121&" alt="tonystark2121" /></p>
-[![@tonystark2121's Holopin board](https://holopin.io/api/user/board?user=tonystark2121)](https://holopin.io/@tonystark2121)
+<p>(https://holopin.io/api/user/board?user=tonystark2121)](https://holopin.io/@tonystark2121)</p>
 
